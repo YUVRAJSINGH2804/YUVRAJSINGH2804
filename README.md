@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm YUVRAJ SINGH</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate CODER and DEVELOPER </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajsingh2804&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajsingh2804" /> </p>
 
